@@ -23,3 +23,6 @@ The website consists of:
 1. Clone this repository to your local machine:
    ```bash
    git clone git@github.com:username/odin-recipes.git
+   
+2. You can also view the project online at:
+   https://spahicadev.github.io/odin-recipes/
